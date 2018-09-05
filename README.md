@@ -1,2 +1,9 @@
-# dream_travel_app
-Website that matches travelers around the world for exchanges
+# Dream Travel App
+
+##Description
+This website will match travelers around the world with one another for language exchanges, housing options and travel companions.
+
+##Technology
+* WordPress/PHP
+* JavaScript
+* SCSS
